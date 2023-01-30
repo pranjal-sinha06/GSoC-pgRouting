@@ -88,7 +88,6 @@ Rajat Shinde,
 Regina Obe,
 Swapnil Joshi,
 Virginia Vergara
-Pranjal Sinha
 
 And all the people that give us a little of their time making comments, finding
 issues, making pull requests etc.  in any of our products: osm2pgrouting,
@@ -149,6 +148,7 @@ Maoguang Wang,
 Mohamed Bakli,
 Mohamed Zia,
 Mukul Priya,
+Pranjal Sinha
 Rajat Shinde,
 Razequl Islam,
 Regina Obe,
@@ -162,7 +162,6 @@ Sylvain Pasche,
 Veenit Kumar,
 Vidhan Jain,
 Virginia Vergara
-Pranjal Sinha
 
 Corporate Sponsors (in alphabetical order)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
